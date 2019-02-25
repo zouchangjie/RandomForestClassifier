@@ -1,0 +1,11 @@
+RandomForestClassifier
+IrisRandomForestModel
+classification
+binarySplit
+2
+x, double,continuous,NA,NA,asMissing
+y, double,continuous,NA,NA,asMissing
+2
+x
+y
+10
